@@ -1,0 +1,9 @@
+# Obsidian keeps device-specific workspace state, preferences, and installed
+# plugin files here. Each user can create their own local configuration.
+.obsidian/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
